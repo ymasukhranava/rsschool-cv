@@ -1,6 +1,6 @@
-#Yana Masukhranava
-###Frontend Developer
-####**Personal Info**
+# Yana Masukhranava
+### Frontend Developer
+#### **Personal Info**
 
 Address: Belarus, Minsk, Yana Chachota Street 25-48
 
@@ -8,11 +8,11 @@ Phone Number: +375 25 707 75 89
 
 Email: yana.masukhranava@gmail.com
 
-####**Summary**
+#### **Summary**
 
 As a beginner web-developer, I have knowledge of CSS, HTML, JavaScript. I'm ready to start my career path and get things solved. 
 
-####**Skills**
+#### **Skills**
 - Hyper Text Markup Language (HTML) 
 
 - Cascading Style Sheets (CSS) 
@@ -21,10 +21,10 @@ As a beginner web-developer, I have knowledge of CSS, HTML, JavaScript. I'm read
 
 - Git
 
-####**Experience**
+#### **Experience**
 RS School 2020
 
-####**Education**
+#### **Education**
 >**Belarusian National Technical University**
 >
 >Bachelor's degree Management
@@ -35,5 +35,5 @@ RS School 2020
 >Documentation and management documentation, Secretary
 2013 – 2016
 
-####**Language**
+#### **Language**
 English-B2 
