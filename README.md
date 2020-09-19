@@ -1,1 +1,0 @@
-https://ymasukhranava.github.io/rsschool-cv/cv
